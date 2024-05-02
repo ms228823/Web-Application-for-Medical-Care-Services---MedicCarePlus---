@@ -115,7 +115,6 @@ And user can Print this report by clicking button "print this page".</p>
 And user can Print this report by clicking button "print this page".</p>
 
 ### 9. Schedule appointments
-![Reservations History](gifs/reservations%20history.gif) 
 
-<p>This page shows Reservations information: Rooms No.	patient Name, Check In Date, Check Out Date, Exit Date, Total Price, which is no of reservation days * price,....etc. .
-And user can Print this report by clicking button "print this page".</p>
+
+<p>This page takes clinic patient's appointment information: patient Name, Appointment Date, hour, clinic name ,doctor name, email </p>
