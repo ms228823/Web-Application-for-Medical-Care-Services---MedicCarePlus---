@@ -46,7 +46,7 @@ for example:
         <li>Able to see reservations history and print it</li>
     </ol>
 
-## Disclaimer Alert: this part is still not finished so the part won't be providing a graphical representation as an explanation of users's capabilities (aka: functions)
+## Disclaimer Alert: this part is still not finished yet so the part won't be providing a graphical representation as an explanation of users's capabilities (aka: functions)
 ## Important Alert: Clinic is a newly added part that comes from the use case of the user (clinic receptionist) that is been done by Salma Assem in association with Prof. DR. Noha Mohammed and Team leader Mohammed Sameh
 ![clinic receptionist](Screenshot_20240503_012021.png)
 
@@ -114,6 +114,7 @@ And user can Print this report by clicking button "print this page".</p>
 <p>This page shows Reservations information: Rooms No.	patient Name, Check In Date, Check Out Date, Exit Date, Total Price, which is no of reservation days * price,....etc. .
 And user can Print this report by clicking button "print this page".</p>
 
+## Disclaimer Alert: this part is still not finished yet so the part won't be providing a graphical representation as an explanation of users's capabilities (aka: functions)
 ### 9. Schedule appointments
 
 
