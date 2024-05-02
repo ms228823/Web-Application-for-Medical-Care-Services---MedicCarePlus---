@@ -10,7 +10,8 @@
 ### 2. After signing in the user will be redirected to Main page where he/she has options that's differs according to user's Role
 
 ## Disclaimer Alert: gifs design that explain rules and functions are a old versions of design but still have the same functions without any changes
-
+## logo is changed from Al salam hospital to MediCarePlus
+![MediCarePlus]()
 for example:
 
 ### <h1>1. Admins:</h1>
