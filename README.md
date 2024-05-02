@@ -44,6 +44,7 @@ for example:
 
 ## Disclaimer Alert: this part is still not finished so the part won't be providing a graphical representation as an explanation of users's capabilities (aka: functions)
 ## Important Alert: Clinic is a newly added part that comes from the use case of the user (clinic receptionist)
+![clinic receptionist](Screenshot_20240503_012021.png)
 
 <h2> Clinic Receptionists can do:</h2>
     <ol style ="font-size: 14pt;">
