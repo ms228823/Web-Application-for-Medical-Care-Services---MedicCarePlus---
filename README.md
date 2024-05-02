@@ -35,7 +35,7 @@ for example:
 
 
 ### <h1>3. Receptionist:</h1>
-![Receptionist](gifs/Receptionist.gif)
+![hospitalReceptionist](gifs/Receptionist.gif)
 
 <h2> Hospital Receptionists can do:</h2>
     <ol style ="font-size: 14pt;">
@@ -80,23 +80,23 @@ After check out the room status change back to open and become available to be r
 ### 4. Employees Report
 ![Employees Report](gifs/users%20report.gif)
 
-<p>This page shows the users information of like name, there roles in system, there status, and no. of reservations made by users (For reporters no. of reservations is none) and any actions notes.
+<p>This page shows the users information of like name, there roles in system, there status, and no. of reservations made by users  and any actions notes.
 And user can Print this report by clicking button "print this page".</p>
 
 ### 5. Add New User
 ![Add New User](gifs/Adding%20user.gif)
 
-<p>This function is available to only admins and reception manager which:
-<strong>Admin can add only reception manger, receptionist and reporter</strong>
-<strong>Reception manager can only add receptionist </strong>
+<p>This function is available to only admins which:
+<strong>Admin can add only reception manger, receptionist and </strong>
+
 Once user is added he/she can use system in restricted borders</p>
 
 ### 6. Changing User Status
 ![Changing User Status](gifs/changing%20user%20status.gif)
 
-<p>This function is available to only admins and reception manager which:
-<strong>Admin can change status to only reception manger, receptionist and reporter from from working to ("Fired","Retired","Moved","Promoted","Demoted","Transferred") or vice versa .</strong>
-<strong>Reception manager can only change status to receptionist from working to ("Fired","Retired","Moved","Promoted","Demoted","Transferred") or vice versa .</strong>
+<p>This function is available to only admins and  which:
+<strong>Admin can change status to only hospital receptionist ("Fired","Retired","Moved","Promoted","Demoted","Transferred") or vice versa .</strong>
+
 Once the user's status changed from working to anything else he can't use the system and vice versa. </p>
 
 ![Changing User Status](gifs/users%20report2.gif)
