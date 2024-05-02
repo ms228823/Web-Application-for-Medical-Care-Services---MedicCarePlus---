@@ -5,7 +5,6 @@
 # Description:
 ### This web app is a medical care services web in which it's main purpose is to simulate schedule appointments, room reservation , adding users with different roles and different system functions accuses and generating reports as similar as real hospital medical web-baised system.
 
-
 ### 1. The user can sign in himself/herself by providing his details (username & password).
 ### 2. After signing in the user will be redirected to Main page where he/she has options that's differs according to user's Role
 
