@@ -43,16 +43,12 @@ for example:
     </ol>
 
 ## Disclaimer Alert: this part is still not finished so the part won't be providing a graphical representation as an explanation of users's capabilities (aka: functions)
-## Important Alert: Clinic is a newly added part that comes from the use case of the user (clinic receptionist)
+## Important Alert: Clinic is a newly added part that comes from the use case of the user (clinic receptionist) that is been done by Salma Assem in association with Prof. DR. Noha Mohammed and Team leader Mohammed Sameh
 ![clinic receptionist](Screenshot_20240503_012021.png)
 
 <h2> Clinic Receptionists can do:</h2>
     <ol style ="font-size: 14pt;">
-        <li>Patient registration.</li>
-        <li>Book a room for patient after patient registration.</li>
-        <li>Check out a reservation</li>
-        <li>Able to check rooms (room no., price, status) and print it</li>
-        <li>Able to see reservations history and print it</li>
+        <li>Book appointment for patent to clinic visit to doctor</li>
     </ol>
 <mark style = "background-color:Green; font-size: 24pt; color: white;">All Users usernames, passwords,role and status in users.txt</mark>
 
