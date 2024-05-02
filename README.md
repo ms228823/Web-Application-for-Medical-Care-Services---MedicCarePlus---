@@ -1,4 +1,4 @@
-# This is CS50 Final Project (Hospital reservation system (web application))
+# This is university Final Project (Web-Application-for-Medical-Care-Services -- MediCarePlus --)
 ### Programming languages Used : HTML & CSS, JavaScript, Python (Flask) , SQL
 ### Libraries and frameworks used : Flask, Flask-session, Jinja2, Werkzeug, pytz, requests, sqlite3
 
