@@ -10,8 +10,11 @@
 ### 2. After signing in the user will be redirected to Main page where he/she has options that's differs according to user's Role
 
 ## Disclaimer Alert: gifs design that explain rules and functions are a old versions of design but still have the same functions without any changes
-## logo is changed from Al salam hospital to MediCarePlus
-![MediCarePlus]()
+### logo is changed from Al salam hospital to MediCarePlus
+![MediCarePluslogo](logo.png)
+## Icon
+![MediCarePluslogo](favicon.ico)
+
 for example:
 
 ### <h1>1. Admins:</h1>
@@ -106,6 +109,12 @@ And user can Print this report by clicking button "print this page".</p>
 
 
 ### 8. Reservations History
+![Reservations History](gifs/reservations%20history.gif) 
+
+<p>This page shows Reservations information: Rooms No.	patient Name, Check In Date, Check Out Date, Exit Date, Total Price, which is no of reservation days * price,....etc. .
+And user can Print this report by clicking button "print this page".</p>
+
+### 9. Schedule appointments
 ![Reservations History](gifs/reservations%20history.gif) 
 
 <p>This page shows Reservations information: Rooms No.	patient Name, Check In Date, Check Out Date, Exit Date, Total Price, which is no of reservation days * price,....etc. .
