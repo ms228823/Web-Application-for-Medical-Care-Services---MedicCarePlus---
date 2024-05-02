@@ -1,15 +1,15 @@
-# This is university Final Project (Web-Application-for-Medical-Care-Services -- MediCarePlus --)
-### Programming languages Used : HTML & CSS, JavaScript, Python (Flask) , SQL
+# This is MTI University's Final Project (Web-Application-for-Medical-Care-Services -- MediCarePlus --) hospital room reservation part is taken from the hospital room reservation system Mohammed Sameh's Final Project to cs50 
+### Programming languages Used: HTML & CSS, JavaScript, Python (Flask), SQL
 ### Libraries and frameworks used : Flask, Flask-session, Jinja2, Werkzeug, pytz, requests, sqlite3
 
-## There is the [Youtube Vedio](https://youtu.be/EohXJFxyJJk)
-
 # Description:
-### This web app is a hospital room reservation system in which it's main purpose is to simulate room reservation , adding users with different roles and different system functions accuses and generating reports as similar as real hospital system.
+### This web app is a medical care services web in which it's main purpose is to simulate schedule appointments, room reservation , adding users with different roles and different system functions accuses and generating reports as similar as real hospital medical web-baised system.
 
-### This project was made for   in HarvardX's university's course (cs50x). It has been developed using python flask framework. The main purpose of
+
 ### 1. The user can sign in himself/herself by providing his details (username & password).
 ### 2. After signing in the user will be redirected to Main page where he/she has options that's differs according to user's Role
+
+## Disclaimer Alert: gifs design that explain rules and functions are a old versions of design but still have the same functions without any changes
 
 for example:
 
@@ -29,26 +29,11 @@ for example:
         <li>Able to see reservations history and print it</li>
     </ol>
 
-### <h1>2. Reception Manager:</h1>
-![Reception Manager](gifs/reception%20manager.gif)
-
-<h2>Reception Manager can do:</h2>
-    <ol style ="font-size: 14pt;">
-        <li>Adding new user (Receptionist)</li>
-        <li>Changing Receptionist status from working to ("Fired","Retired","Moved","Promoted","Demoted","Transferred") or 
-    vice versa .</li>
-        <li>Patient registration.</li>
-        <li>Book a room for patient after patient registration.</li>
-        <li>Check out a reservation</li>
-        <li>Able to see Receptionist actions report and print it</li>
-        <li>Able to check rooms (room no., price, status) and print it</li>
-        <li>Able to see reservations history and print it</li>
-    </ol>
 
 ### <h1>3. Receptionist:</h1>
 ![Receptionist](gifs/Receptionist.gif)
 
-<h2> Receptionists can do:</h2>
+<h2> Hospital Receptionists can do:</h2>
     <ol style ="font-size: 14pt;">
         <li>Patient registration.</li>
         <li>Book a room for patient after patient registration.</li>
@@ -57,17 +42,17 @@ for example:
         <li>Able to see reservations history and print it</li>
     </ol>
 
-### <h1>4. Reporter:</h1>
+## Disclaimer Alert: this part is still not finished so the part won't be providing a graphical representation as an explanation of users's capabilities (aka: functions)
+## Important Alert: Clinic is a newly added part that comes from the use case of the user (clinic receptionist)
 
-![reporter](gifs/reporter.gif)
-
-<h2> Reporters can do: </h2>
+<h2> Clinic Receptionists can do:</h2>
     <ol style ="font-size: 14pt;">
-        <li>Able to see users actions report and print it</li>
-        <li>Able to check rooms (room no, price, status) and print it</li>
+        <li>Patient registration.</li>
+        <li>Book a room for patient after patient registration.</li>
+        <li>Check out a reservation</li>
+        <li>Able to check rooms (room no., price, status) and print it</li>
         <li>Able to see reservations history and print it</li>
     </ol>
-
 <mark style = "background-color:Green; font-size: 24pt; color: white;">All Users usernames, passwords,role and status in users.txt</mark>
 
 ## page :
