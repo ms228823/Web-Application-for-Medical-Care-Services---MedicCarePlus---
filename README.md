@@ -33,7 +33,7 @@ for example:
     </ol>
 
 
-### <h1>3. Hospital Receptionist:</h1>
+### <h1>2. Hospital Receptionist:</h1>
 ![hospitalReceptionist](images/staff-main-1.png)
 ![hospitalReceptionist](images/staff-main-2.png)
 ### This includes all functions that are mutual between admin and hospital Receptionist (except check out removed)
@@ -46,7 +46,7 @@ for example:
     </ol>
 
 ## Disclaimer Alert: this part is still not finished yet so the part won't be providing a graphical representation as an explanation of users's capabilities (aka: functions)
-## Important Alert: Clinic is a newly added part that comes from one of diagrams which is the use case of the user (web app visitor) that have been done by Salma Assem in association with Prof. DR. Noha Mohammed and Mohammed Sameh
+## Important Alert: Clinic is a newly added part that comes from one of the diagrams which is the use case of the user (web app visitor) that have been done by Salma Assem in association with Prof. DR. Noha Mohammed and Mohammed Sameh
 
 
 <h2> Clinic Receptionists can do:</h2>
@@ -69,7 +69,7 @@ for example:
 ![Check In](images/check%20in.png)
 
 <p> Check-in comes after patient registration On this page users select patient data and rooms that are available to him/her, each room selection has a price, check-in date, and check-out date having a minimum value of today and payment method (Cash, Visa or Mastercard).
-After check the room status changed from open to reserved</p>
+After checking the room status changed from open to reserved</p>
 
 
 ### 3. Employees Report
