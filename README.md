@@ -73,7 +73,7 @@ After check the room status changed from open to reserved</p>
 
 
 ### 3. Employees Report
-![Employees Report](images/users%20report.png)
+![Employees Report](images/employees%20report.png)
 
 <p>This page shows the users information of like name, there roles in system, there status, and no. of reservations made by users  and any actions notes.
 And user can Print this report by clicking button "print this page".</p>
