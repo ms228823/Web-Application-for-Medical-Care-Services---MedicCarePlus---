@@ -96,7 +96,7 @@ Once the user's status changed from working to anything else he can't use the sy
 
 
 ### 6. Reservations History
-![Reservations History](images/reservations-table.png) 
+![Reservations History](images/reservation-table.png) 
 
 <p>This page shows Reservations information: Rooms No.	patient Name, Check In Date, Check Out Date, Exit Date, Total Price, which is no of reservation days * price,....etc. .
 And user can Print this report by clicking button "print this page".</p>
