@@ -17,8 +17,8 @@
 for example:
 
 ### <h1>1. Admins:</h1>
-![Admins](images/staff-main-1.png)
-![Admins](images/staff-main-2.png)
+![Admins1](images/staff-main-1.png)
+![Admins2](images/staff-main-2.png)
 
 <h2>Admins can do:</h2>
     <ol style ="font-size: 14pt;">
@@ -34,8 +34,8 @@ for example:
 
 
 ### <h1>2. Hospital Receptionist:</h1>
-![hospitalReceptionist](images/staff-main-1.png)
-![hospitalReceptionist](images/staff-main-2.png)
+![hospitalReceptionist1](images/staff-main-1.png)
+![hospitalReceptionist2](images/staff-main-2.png)
 ### This includes all functions that are mutual between admin and hospital Receptionist (except check out removed)
 <h2> Hospital Receptionists can do:</h2>
     <ol style ="font-size: 14pt;">
@@ -58,9 +58,9 @@ for example:
 ## page :
 
 ### 1. Patient Registration
-![Patient Registration](images/patient-registration-1)
-![Patient Registration](images/patient-registration-2)
-![Patient Registration](images/patient-registration-3)
+![PatientRegistration1](images/patient-registration-1)
+![PatientRegistration2](images/patient-registration-2)
+![PatientRegistration3](images/patient-registration-3)
 
 
 <p>Patient registration allows users to add patient personal information, Contact information, And Emergency Contact Information</p>
@@ -73,7 +73,7 @@ After checking the room status changed from open to reserved</p>
 
 
 ### 3. Employees Report
-![Employees Report](images/employees-report.png)
+![EmployeesReport](images/employees-report.png)
 
 <p>This page shows the users information of like name, there roles in system, there status, and no. of reservations made by users  and any actions notes.
 And user can Print this report by clicking button "print this page".</p>
