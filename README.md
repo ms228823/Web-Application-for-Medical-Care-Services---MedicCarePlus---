@@ -79,7 +79,7 @@ After checking the room status changed from open to reserved</p>
 And user can Print this report by clicking button "print this page".</p>
 
 ### 4. Add New User
-![Add New User](images/Adding-user.png)
+![Add New User](images/adding-user.png)
 
 <p>This function is available to only admins which:
 <strong>Admin can add only reception manger, receptionist and </strong>
