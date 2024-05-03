@@ -103,6 +103,5 @@ And user can Print this report by clicking button "print this page".</p>
 
 ## Disclaimer Alert: this part is still not finished yet 
 ### 7. Schedule appointments
-
 ![Add New User](images/appointement.png)
 <p>This page takes clinic patient's appointment information: patient Name, Appointment Date, hour, clinic name,doctor name, email </p>
