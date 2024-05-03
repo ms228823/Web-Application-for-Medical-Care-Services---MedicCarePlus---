@@ -58,9 +58,9 @@ for example:
 ## page :
 
 ### 1. Patient Registration
-![Patient Registration](images/patient registration-1)
-![Patient Registration](images/patient registration-2)
-![Patient Registration](images/patient registration-3)
+![Patient Registration](images/patient%20registration-1)
+![Patient Registration](images/patient%20registration-2)
+![Patient Registration](images/patient%20registration-3)
 
 
 <p>Patient registration allows users to add patient personal information, Contact information, And Emergency Contact Information</p>
