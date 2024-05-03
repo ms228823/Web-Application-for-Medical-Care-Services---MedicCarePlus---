@@ -46,12 +46,12 @@ for example:
     </ol>
 
 ## Disclaimer Alert: this part is still not finished yet so the part won't be providing a graphical representation as an explanation of users's capabilities (aka: functions)
-## Important Alert: Clinic is a newly added part that comes from the use case of the user (clinic receptionist) that is been done by Salma Assem in association with Prof. DR. Noha Mohammed and Team leader Mohammed Sameh
-![clinic receptionist](Screenshot_20240503_012021.png)
+## Important Alert: Clinic is a newly added part that comes from the use case of the user (web app visitor) that has been done by Salma Assem in association with Prof. DR. Noha Mohammed and Mohammed Sameh
+
 
 <h2> Clinic Receptionists can do:</h2>
     <ol style ="font-size: 14pt;">
-        <li>Book appointment for patent to clinic visit to doctor</li>
+        <li>visitor(clinic patent) can Book an appointment for a clinic visit to doctor</li>
     </ol>
 <mark style = "background-color:Green; font-size: 24pt; color: white;">All Users usernames, passwords,role and status in users.txt</mark>
 
