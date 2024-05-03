@@ -58,28 +58,28 @@ for example:
 ## page :
 
 ### 1. Patient Registration
-![Patient Registration](images/patient%20registration-1)
-![Patient Registration](images/patient%20registration-2)
-![Patient Registration](images/patient%20registration-3)
+![Patient Registration](images/patient-registration-1)
+![Patient Registration](images/patient-registration-2)
+![Patient Registration](images/patient-registration-3)
 
 
 <p>Patient registration allows users to add patient personal information, Contact information, And Emergency Contact Information</p>
 
 ### 2. Check-In
-![Check In](images/check%20in.png)
+![Check In](images/check-in.png)
 
 <p> Check-in comes after patient registration On this page users select patient data and rooms that are available to him/her, each room selection has a price, check-in date, and check-out date having a minimum value of today and payment method (Cash, Visa or Mastercard).
 After checking the room status changed from open to reserved</p>
 
 
 ### 3. Employees Report
-![Employees Report](images/employees%20report.png)
+![Employees Report](images/employees-report.png)
 
 <p>This page shows the users information of like name, there roles in system, there status, and no. of reservations made by users  and any actions notes.
 And user can Print this report by clicking button "print this page".</p>
 
 ### 4. Add New User
-![Add New User](images/Adding%20user.png)
+![Add New User](images/Adding-user.png)
 
 <p>This function is available to only admins which:
 <strong>Admin can add only reception manger, receptionist and </strong>
@@ -96,7 +96,7 @@ Once the user's status changed from working to anything else he can't use the sy
 
 
 ### 6. Reservations History
-![Reservations History](images/reservations%20table.png) 
+![Reservations History](images/reservations-table.png) 
 
 <p>This page shows Reservations information: Rooms No.	patient Name, Check In Date, Check Out Date, Exit Date, Total Price, which is no of reservation days * price,....etc. .
 And user can Print this report by clicking button "print this page".</p>
