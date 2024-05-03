@@ -58,9 +58,9 @@ for example:
 ## page :
 
 ### 1. Patient Registration
-![PatientRegistration1](images/patient-registration-1)
-![PatientRegistration2](images/patient-registration-2)
-![PatientRegistration3](images/patient-registration-3)
+![PatientRegistration1](images/patient-registration-1.png)
+![PatientRegistration2](images/patient-registration-2.png)
+![PatientRegistration3](images/patient-registration-3.png)
 
 
 <p>Patient registration allows users to add patient personal information, Contact information, And Emergency Contact Information</p>
@@ -73,7 +73,7 @@ After checking the room status changed from open to reserved</p>
 
 
 ### 3. Employees Report
-![EmployeesReport](images/employees-report.png)
+![EmployeesReport](images/employee-report.png)
 
 <p>This page shows the users information of like name, there roles in system, there status, and no. of reservations made by users  and any actions notes.
 And user can Print this report by clicking button "print this page".</p>
