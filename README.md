@@ -8,7 +8,6 @@
 ### 1. The user can sign in himself/herself by providing his details (username & password).
 ### 2. After signing in the user will be redirected to Main page where he/she has options that's differs according to user's Role
 
-## Disclaimer Alert: gifs design that explain rules and functions are a old versions of design but still have the same functions without any changes changing web design is not finished yet
 ### logo is changed from Al salam hospital to MediCarePlus
 ![MediCarePluslogo](logo.png)
 ## Icon
@@ -101,7 +100,6 @@ Once the user's status changed from working to anything else he can't use the sy
 <p>This page shows Reservations information: Rooms No.	patient Name, Check In Date, Check Out Date, Exit Date, Total Price, which is no of reservation days * price,....etc. .
 And user can Print this report by clicking button "print this page".</p>
 
-## Disclaimer Alert: this part is still not finished yet 
 ### 7. Schedule appointments
 ![Add New User](images/appointement.png)
 <p>This page takes clinic patient's appointment information: patient Name, Appointment Date, hour, clinic name,doctor name, email </p>
